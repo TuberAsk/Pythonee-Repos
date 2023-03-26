@@ -18,7 +18,7 @@ but Discord.py is always supported as that is what I use and support!
 
 ## Reporting a Vulnerability
 
-To report stuff you have to join my Discord Server and report or suggest in Suggestions or Questions!
+To report stuff you have to join my Discord Server and report or suggest in Suggestions or Questions go to wiki as you will find my socials there!
 
 *This page is new to development!*
 
