@@ -22,3 +22,40 @@ To report a Vulnerability you have to go to the comments of the starter.py comme
 I hope you understand!
 
 This page is new to development!
+
+## Privacy Policy and Terms of Services!
+Abusive Comments
+No sexual abuse or shaming and bullying this server is highly secure and will not tolerate this!
+
+NFSW and Gore
+Do not post NFSW or Gore you will be punished!
+
+Civil and Friendly
+Always be civil and respectful, treat everyone in the server good!
+
+Discord ToS
+This server supports the Discord ToS please follow them!
+Link - https://discord.com/terms
+
+No Toxicity
+Please be nice in Voice Channels no toxicity or arguing allowed!
+
+Staff Members
+Remember to be nice to moderators and staff members!
+
+Doxing and threatening
+Please do not threaten anybody with Doxing or asking for sexual content like nudes!
+
+No ads/advertisements
+Do not post ads into general chat OR others DMs!
+
+Follow the rules
+I highly suggest following these rules or else there might be punishments!
+
+Racism and Slurs
+Please do not say anything bad about people in this server like slurs or Racism!
+
+Server raids/Server nukes
+If you do nuke or server raid others server/this server you will be permanently banned!
+--------------------------------------
+Written by TuberAsk/Pythoneer
