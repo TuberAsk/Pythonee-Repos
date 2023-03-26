@@ -32,9 +32,9 @@ Do not post NFSW or Gore you will be punished!
 Civil and Friendly
 Always be civil and respectful, treat everyone in the server good!
 
-Discord ToS
+GitHub ToS
 This server supports the Discord ToS please follow them!
-Link - https://discord.com/terms
+Link - https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
 
 No Toxicity
 Please be nice in Voice Channels no toxicity or arguing allowed!
