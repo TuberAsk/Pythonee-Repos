@@ -22,7 +22,7 @@ To report stuff you have to join my Discord Server and report or suggest in Sugg
 
 *This page is new to development!*
 
-## Privacy Policy and Terms of Services!
+## The Guidelines
 Abusive Comments
 No sexual abuse or shaming and bullying this server is highly secure and will not tolerate this!
 
