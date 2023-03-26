@@ -1,4 +1,6 @@
 # Recommeneded Librarys!
+# Most of the code not mine ⚠️
+
 import discord
 import os
 # Some Starter Code!
