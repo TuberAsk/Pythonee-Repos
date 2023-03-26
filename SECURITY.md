@@ -18,10 +18,9 @@ but Discord.py is always supported as that is what I use and support!
 
 ## Reporting a Vulnerability
 
-To report a Vulnerability you have to go to the comments of the starter.py comment section!
-I hope you understand!
+To report stuff you have to join my Discord Server and report or suggest in Suggestions or Questions!
 
-This page is new to development!
+*This page is new to development!*
 
 ## Privacy Policy and Terms of Services!
 Abusive Comments
