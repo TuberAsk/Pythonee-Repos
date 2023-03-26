@@ -57,5 +57,5 @@ Please do not say anything bad about people in this server like slurs or Racism!
 
 Server raids/Server nukes
 If you do nuke or server raid others server/this server you will be permanently banned!
---------------------------------------
-Written by TuberAsk/Pythoneer
+
+*Written by TuberAsk/Pythoneer*
