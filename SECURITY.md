@@ -4,13 +4,14 @@
 
 Right now there are no supported versions!
 But there will be added versions maybe later!
+But we do support the discord.py library!
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.1.x   | ❌ |
-| 0.2.x soon   | ❌                |
-| 0.3.x soon   | ❌ |
-| 1.1.x soon   | ❌                |
+| 0.0.1x   | ❌ |
+| 0.2.2.x soon   | ❌                |
+| 1.1.1 soon   | ❌ |
+| 2.2.2x   | ✅                |
 
 ## Reporting a Vulnerability
 
