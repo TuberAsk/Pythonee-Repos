@@ -54,7 +54,7 @@ I highly suggest following these rules or else there might be punishments!
 Racism and Slurs
 Please do not say anything bad about people in this server like slurs or Racism!
 
-Server raids/Server nukes
-If you do nuke or server raid others server/this server you will be permanently banned!
+Code Abusement
+If you do nuke or raid others files as Contributor you will be punished!
 
 *Written by TuberAsk/Pythoneer*
