@@ -37,7 +37,7 @@ This server supports the Discord ToS please follow them!
 Link - https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
 
 No Toxicity
-Please be nice in Voice Channels no toxicity or arguing allowed!
+Please be nice and friendly no toxicity or arguing allowed!
 
 Staff Members
 Remember to be nice to moderators and staff members!
