@@ -3,7 +3,9 @@
 
 #Python basics on "Pip"
 #Windows
-pip -m install -U thelibraryhere
+py -3 -m pip install -U thelibrarytoinstall
+#OR just
+pip install thelibrarytoinstall
 
 import discord
 import os
