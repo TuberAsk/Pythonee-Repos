@@ -1,6 +1,10 @@
 # Recommeneded Librarys!
 # Most of the code not mine ⚠️
 
+#Python basics on "Pip"
+#Windows
+pip -m install -U thelibraryhere
+
 import discord
 import os
 # Some Starter Code!
